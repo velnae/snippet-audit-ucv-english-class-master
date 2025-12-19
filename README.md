@@ -33,6 +33,7 @@ El valor se guarda automáticamente en localStorage y no se volverá a pedir.
 ---
 
 ## Uso diario
+Abra sus preguntas de https://learn.elltechnologies.com/
 
 Con un ejercicio visible en pantalla, ejecuta en la consola:
 
@@ -53,10 +54,11 @@ answer-reveal.registry.js    Registro de handlers
 answer-reveal.core.js        Núcleo + fallback por capacidades
 answer-reveal.boot.js        Inicialización y verificación
 handlers/
-answer-reveal.handler.TYP.js
-answer-reveal.handler.EXPLORE_DFL.js
-answer-reveal.handler.SFL.js
-answer-reveal.handler.MMM.js
+answer-reveal.handler.EXPLORE_DFL.js',
+answer-reveal.handler.EXPLORE_SLS.js',
+answer-reveal.handler.MMM.js',
+answer-reveal.handler.TAB.js',
+answer-reveal.handler.TYP.js',
 ...
 
 Cada tipo de ejercicio tiene su propio handler, lo que permite que el sistema sea escalable sin crecer el código central.

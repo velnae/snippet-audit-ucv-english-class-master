@@ -28,11 +28,11 @@
     '/answer-reveal/answer-reveal.boot.js',
 
     // handlers
-    '/answer-reveal/handlers/answer-reveal.handler.TYP.js',
     '/answer-reveal/handlers/answer-reveal.handler.EXPLORE_DFL.js',
     '/answer-reveal/handlers/answer-reveal.handler.EXPLORE_SLS.js',
-    '/answer-reveal/handlers/answer-reveal.handler.SFL.js',
     '/answer-reveal/handlers/answer-reveal.handler.MMM.js',
+    '/answer-reveal/handlers/answer-reveal.handler.TAB.js',
+    '/answer-reveal/handlers/answer-reveal.handler.TYP.js',
   ];
 
   // 3) Loader secuencial (respeta orden)

@@ -26,7 +26,7 @@ Ejecuta el snippet.
 
 Cuando se solicite el BASE URL, ingresa exactamente:
 
-[https://raw.githubusercontent.com/velnae/snippet-audit-ucv-english-class-master/main](https://raw.githubusercontent.com/velnae/snippet-audit-ucv-english-class-master/main)
+[https://cdn.jsdelivr.net/gh/velnae/snippet-audit-ucv-english-class-master@main](https://cdn.jsdelivr.net/gh/velnae/snippet-audit-ucv-english-class-master@main)
 
 El valor se guarda automáticamente en localStorage y no se volverá a pedir.
 
